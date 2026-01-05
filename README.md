@@ -44,7 +44,8 @@ SQL | Python | Power BI | MS Excel | Git | ETL | EDA | Data Modeling | Agile | J
 
 ## Learning & Certification
 - Executive Diploma in AI & Machine Learning - IIIT Bangalore (ongoing)
-- Bachelor of Engineering - Mechanical Engineering
+- Data Engineering - MIT in collaboration with Intellipaat
+- Bachelor of Engineering in Mechanical Engineering - Bangalore Institute of Technology
 
 ---
 
